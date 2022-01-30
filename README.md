@@ -1,1 +1,3 @@
 # time-table
+Void main()
+{
