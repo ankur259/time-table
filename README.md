@@ -1,3 +1,0 @@
-# time-table
-Void main()
-{
